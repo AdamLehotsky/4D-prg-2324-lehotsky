@@ -1,0 +1,7 @@
+C:\Users\adam2\source\repos\kalkulačka ukol\kalkulačka ukol\bin\Debug\kalkulačka ukol.exe.config
+C:\Users\adam2\source\repos\kalkulačka ukol\kalkulačka ukol\bin\Debug\kalkulačka ukol.exe
+C:\Users\adam2\source\repos\kalkulačka ukol\kalkulačka ukol\bin\Debug\kalkulačka ukol.pdb
+C:\Users\adam2\source\repos\kalkulačka ukol\kalkulačka ukol\obj\Debug\kalkulačka ukol.csproj.AssemblyReference.cache
+C:\Users\adam2\source\repos\kalkulačka ukol\kalkulačka ukol\obj\Debug\kalkulačka ukol.csproj.CoreCompileInputs.cache
+C:\Users\adam2\source\repos\kalkulačka ukol\kalkulačka ukol\obj\Debug\kalkulačka ukol.exe
+C:\Users\adam2\source\repos\kalkulačka ukol\kalkulačka ukol\obj\Debug\kalkulačka ukol.pdb
